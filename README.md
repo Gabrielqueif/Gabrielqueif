@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Queiroz</h1>
 <h3 align="center">Um novato na programação e entusiasta na area de dados e um pouco de fullstack</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielqueif&show_icons=true&locale=en" alt="gabrielqueif" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielqueif&show_icons=true&locale=en" alt="gabrielqueif"/></p>
 
 - 🔭 I’m currently working on [projeto de orçamento](https://github.com/Gabrielqueif/Projeto_Orcamento)
 

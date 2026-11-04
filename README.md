@@ -38,9 +38,3 @@ Desenvolvedor Full-Stack com foco em aplicações web usando **Next.js** no fron
   <img src="https://skillicons.dev/icons?i=ts,py,nodejs,nextjs,tailwind,docker,git" alt="Tecnologias" />
 </p>
 
-## 📊 Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielqueif&show_icons=true&theme=dracula&hide_border=false" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielqueif&layout=compact&theme=dracula" height="150" alt="Linguagens mais usadas" />
-</div>
